@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Tugas 4</string>
+    <string-array name="judul">
+        <item>Fullmetal Alchemist: Brotherhood</item>
+        <item>Shingeki no Kyojin</item>
+        <item>Steins;Gate</item>
+        <item>Gintama</item>
+        <item>Mob Psycho 100</item>
+        <item>Made in Abyss</item>
+        <item>Kimetsu no Yaiba</item>
+        <item>One Piece</item>
+        <item>Kono Subarashii Sekai ni Shukufuku wo!</item>
+        <item>Overlord</item>
+    </string-array>
+
+    <string-array name="deskripsi">
+        <item>
+            Seru, ceritanya tentang kakak beradik yang berpetualang menyelamatkan
+            dunia kayaknya. Oh iya adiknya itu baju zirah. Sama mereka bisa sihir.
+            Trus ada… Emm, batu petuah. Lumayan seru kalo menurutku.
+        </item>
+        <item>
+            Anime super populer, tentang kota yang membangun tembok dan ada banyak monster
+            berusaha masuk melewati tembok itu? Terus terang belum pernah nonton tapi hei,
+            banyak yang suka.
+        </item>
+        <item>
+            Anime ini memberikan 1001 alasan kenapa Penjelasan Waktu adalah ide buruk.
+            Karakter utama Chunni, kayak programmer aplikasi ini.
+        </item>
+        <item>
+            Anime komedi yang sudah mencapai ratusan episode. Ada tema alien vs samurai vs yakuza?
+            Gak terlalu jelas, tapi lucu animenya.
+        </item>
+        <item>
+            Ceritanya tentang seorang bocah yang punya 100% Kekuatan Esper
+            tapi punya 0% kemampuan sosial.
+        </item>
+        <item>
+            Dua orang bocah pendek akal nyemplung ke neraka karena penasaran dibawah ada apa
+        </item>
+        <item>
+            Programmer lupa nonton anime ini, ntar ingetin ya!
+        </item>
+        <item>
+            Ceritanya tentang bajak laut, pergi ke pulau pulau aneh dan emm...
+            Sampai sekarang belum selesai, sudah 900+ Episode dan belum kelihatan endingnya.
+            Jadi kalau anda ingin anime yang awet seumur hidup, ini aja udah...
+        </item>
+        <item>
+            Anime favorit programmer, tentang seorang otaku nolep yang tereinkarnasi
+            ke dunia lain. Bersamanya seorang Dewi Air dengan IQ Jongkok, Penyihir
+            Chunni, dan Ksatria Miring Moral.
+        </item>
+        <item>
+            Ceritanya ada seorang karakter jahat super kuat yang ingin menguasai dunia.
+            Seru banget, beda dari cerita lainnya, cerita ini menceritakan tentang karakter
+            jahat yang melakukan hal jahat dan menang. Seneng aja akhirnya melihat para
+            pahlawan dikalahkan.
+        </item>
+    </string-array>
+</resources>
